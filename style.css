@@ -1,0 +1,24 @@
+.body{
+    background-color: brown;
+}
+
+.h1{
+    background-color: aqua;
+    color: aliceblue;
+    text-align: center;
+}
+
+.div1{
+ background-color: bisque; 
+ height: 100%;
+}
+
+.div2{
+    background-color: aliceblue;
+    width: 344px;
+    border-radius: 22px;
+}
+
+.button1{
+    border-radius: 24px;
+}
